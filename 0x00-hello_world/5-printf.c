@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /*
- * main
- * printing a word
+ *main - Print a string
+ * Description: use printf
+ * Return: 0
  */
 
 int main(void)
