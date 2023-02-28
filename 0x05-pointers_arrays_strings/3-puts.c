@@ -1,13 +1,13 @@
 #include "main.h"
 /**
  * _puts - prints a string, followed by a new line, to stdout
- * @dstv: string to print
+ * @str: string to print
  */
-void _puts(char *dstv)
+void _puts(char *str)
 {
-	while (*dstv != '\0')
+	while (*str != '\0')
 	{
-		_putchar(*dstv);
+		_putchar(*str++);
 	}
 		_putchar('\n');
 }
