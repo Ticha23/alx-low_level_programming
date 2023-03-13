@@ -1,1 +1,1 @@
-understanding argc and argv
+learning about arguments and understanding them
