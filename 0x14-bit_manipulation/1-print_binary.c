@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_binary; it prints binary of an in
+ * print_binary - it prints binary of an int
  *
  * @n: interger
  * Return: 1 or 0
